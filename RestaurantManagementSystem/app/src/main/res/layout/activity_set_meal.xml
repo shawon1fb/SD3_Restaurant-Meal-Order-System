@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/Tomato"
+    tools:context=".SetMealActivity">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Card"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:textColor="@color/CustomSetMealColor"
+        android:textAllCaps="true"
+        android:textSize="25sp"
+        android:background="@color/white"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Readymade Set Meal"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:background="@color/Forest_Green"
+        android:textColor="@color/white"
+        android:padding="15dp"
+
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <CheckBox
+
+                android:id="@+id/item1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/setMealItem1"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/item2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/setMealItem2"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/item3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/setMealItem3"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/item4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/setMealItem4"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/item5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/setMealItem5"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+            <CheckBox
+
+                android:id="@+id/item6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/setMealItem6"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <Button
+                android:padding="10dp"
+                android:id="@+id/Order"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Order"
+                android:textSize="25sp"
+
+
+                />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

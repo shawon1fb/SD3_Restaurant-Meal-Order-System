@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Restaurant Food ordering System</string>
+    <string name="setMealItem1">Set Meal-1(fried rice, Thai fried chicken,Chicken chili, salad) (190/-)  </string>
+    <string name="setMealItem2">Set Meal-2(Fried rice, Masala chicken,salad,veg)(220/-)</string>
+    <string name="setMealItem3">Set Meal-3(Fried rice, Tandori chicken,salad,veg)(240/-)  </string>
+    <string name="setMealItem4">Set Meal-4(Fried rice, Beef Masala ,salad,veg )(260/-)</string>
+    <string name="setMealItem5">Set-Meal-5(Fried Rice, Prawn Masala,salad,veg)(250/-) </string>
+    <string name="setMealItem6">Student Meal(fried rice,Fried chicken,veg) (150/-)</string>
+
+    <string name="CutomMealItem1">Thai Fried Rice (140/-) </string>
+    <string name="CutomMealItem2">Chicken Fried Rice (120/-) </string>
+    <string name="CutomMealItem3">Prawn Fried Rice(150/-) </string>
+    <string name="CutomMealItem4">Steam Rice (60/-) </string>
+    <string name="CutomMealItem5">Hydrabadi Biriyani Chicken/Beef(275/-) </string>
+    <string name="CutomMealItem6">Afgani Korma Polau Chicken/Beef(300/-) </string>
+    <string name="CutomMealItem7">Bhuna Khichuri Chicken/Beef(salad+pickle)(140/-) </string>
+    <string name="CutomMealItem8">Special Kacchi (180/-) </string>
+    <string name="CutomMealItem9">Thai Fried Chicken( 90/-) </string>
+    <string name="CutomMealItem10">Crunchy Fried Chicken( 90/-)  </string>
+    <string name="CutomMealItem11">Hot Chicken With Garlic Sauce(110/-)</string>
+    <string name="CutomMealItem12">Chicken Masala(130/-)</string>
+    <string name="CutomMealItem13">Chicken with Ginger and Mushroom(140/-)</string>
+    <string name="CutomMealItem14">Beef Chili( 130/-)</string>
+    <string name="CutomMealItem15">Beef Masala( 150/-)</string>
+    <string name="CutomMealItem16">Beef Sizzler(140/-)</string>
+    <string name="CutomMealItem17">Fried Prawn(2 Pcs)(120/-)</string>
+    <string name="CutomMealItem18">Prawn Ball (150/-)</string>
+    <string name="CutomMealItem19">Prawn Chili Onion( 140/-)</string>
+    <string name="CutomMealItem20">Chinese Mixed Vegetable(100/-) </string>
+
+
+    <string name="AboutUS">Farhan Fardid:\nFarhan Fardid is a student of Bangladesh University of Business And Technology (BUBT) in dept. of CSE, Intake: 32, Sec:02, ID: 15162103062.
+\n\nAbu Nauam Tonmoy:\nAbu Nauam Tonmoy is a student of Bangladesh University of Business And Technology (BUBT) in dept. of CSE, Intake: 32, Sec: 02, ID: 15162103190.
+\n\nAbir Mahmud:\nAbir Mahmud is a student of Bangladesh University of Business And Technology (BUBT) in dept. of CSE, Intake: 32, Sec: 02, ID: 15162103054.
+\n\nMd. Tanvir Hossain Mitul:\nMd. Tanvir Hossain Mitul is a student of Bangladesh University of Business And Technology (BUBT) in dept. of CSE, Intake: 32, Sec: 02, ID: 15162103048.
+                   </string>
+
+
+</resources>

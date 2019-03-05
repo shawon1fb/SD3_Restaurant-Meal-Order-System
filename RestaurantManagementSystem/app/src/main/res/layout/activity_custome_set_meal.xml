@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/Tomato"
+    tools:context=".CustomeSetMealActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Card"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:textColor="@color/CustomSetMealColor"
+        android:textAllCaps="true"
+        android:textSize="25sp"
+        android:background="@color/white"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Custom Set Meal"
+        android:gravity="center"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:background="@color/Forest_Green"
+        android:textColor="@color/white"
+        android:padding="15dp"
+
+        />
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <CheckBox
+                android:id="@+id/customSetMealitem1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem1"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem2"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem3"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem4"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+            <CheckBox
+
+                android:id="@+id/customSetMealitem5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem5"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem6"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem7"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem8"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem9"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem10"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem11"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem12"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem13"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem14"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem15"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem16"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem17"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem18"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem19"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+            <CheckBox
+
+                android:id="@+id/customSetMealitem20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/CutomMealItem20"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:background="@color/teal"
+                android:padding="15dp"
+                android:layout_marginBottom="1dp"
+                />
+
+
+            <Button
+                android:padding="10dp"
+                android:id="@+id/customSetMealOrder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Order"
+                android:textSize="25sp"
+
+
+                />
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/teal"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hunger's Club"
+        android:textSize="30dp"
+        android:background="@color/Tomato"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <Button
+            android:id="@+id/setMeal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Set meal"
+            android:textSize="30dp"
+            android:textStyle="bold"
+
+            />
+        <Button
+            android:id="@+id/customSetMeal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Custom Set meal"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
+
+        <Button
+            android:id="@+id/Developer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Developed By"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:id="@+id/AboutUs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About Us"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
